@@ -31,7 +31,10 @@ Successful installation of macOS 15 Sequoia on Ryzen 5 2600
 Ryzen 5 2600,
  RX 580,
  Motherboard - ASUS B550 Prime Plus,
- Bluetooth -  None
+ Bluetooth -  None,
+ Wi-Fi - None,
+ Ethernet - Yes
+ 
 
 
 Ru:
@@ -41,5 +44,7 @@ Ru:
 Процессор - Ryzen 5 2600,
  Видеокарта - RX 580,
  Материнская плата - ASUS B550 Prime Plus,
- Блютуз -  Нету
+ Блютуз - Нету
+ Wi-Fi - нету
+ Проводной интернет - есть
 
